@@ -1,0 +1,9 @@
+D:\visual\projects\fileReadWriteTest\bin\Debug\netstandard2.0\fileReadWriteTest.deps.json
+D:\visual\projects\fileReadWriteTest\bin\Debug\netstandard2.0\fileReadWriteTest.dll
+D:\visual\projects\fileReadWriteTest\obj\Debug\netstandard2.0\fileReadWriteTest.csprojAssemblyReference.cache
+D:\visual\projects\fileReadWriteTest\obj\Debug\netstandard2.0\fileReadWriteTest.csproj.CoreCompileInputs.cache
+D:\visual\projects\fileReadWriteTest\obj\Debug\netstandard2.0\fileReadWriteTest.AssemblyInfoInputs.cache
+D:\visual\projects\fileReadWriteTest\obj\Debug\netstandard2.0\fileReadWriteTest.AssemblyInfo.cs
+D:\visual\projects\fileReadWriteTest\bin\Debug\netstandard2.0\fileReadWriteTest.pdb
+D:\visual\projects\fileReadWriteTest\obj\Debug\netstandard2.0\fileReadWriteTest.dll
+D:\visual\projects\fileReadWriteTest\obj\Debug\netstandard2.0\fileReadWriteTest.pdb
